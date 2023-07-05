@@ -10,7 +10,7 @@
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igor1203/food-explorer-frontend?color=%231280BF">
 
- <a href="https://food-explorer-deploy.vercel.app/" target="_blank"> ▶️ Access Deploy </a>
+ <a href="https://food-explorer-frontend-igor1203.vercel.app/" target="_blank"> ▶️ Access Deploy </a>
 </div>  
 </br>
 
